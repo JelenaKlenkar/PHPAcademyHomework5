@@ -8,9 +8,9 @@ require 'Classes/Animals/Dinosaur/Tyrannosaurus.php';
 require 'Classes/App.php';
 
 //read namespaces declared in required file
-use Classes\Animals\Cat\Bombay as Bombay1;
-use Classes\Animals\Dog\Beagle as Beagle1;
-use Classes\Animals\Dinosaur\Tyrannosaurus as Tyrannosaurus1;
+use Classes\Animals\Cat\Bombay as Bombay;
+use Classes\Animals\Dog\Beagle as Beagle;
+use Classes\Animals\Dinosaur\Tyrannosaurus as Tyrannosaurus;
 use Classes\App;
 
 //randomise classes array
